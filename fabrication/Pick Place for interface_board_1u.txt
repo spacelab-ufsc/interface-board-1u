@@ -1,0 +1,20 @@
+Altium Designer Pick and Place Locations
+C:\Users\Yan Azeredo\Desktop\SpaceLab\interface-board-1u\.\fabrication\Pick Place for interface_board_1u.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/03/21
+Time:       23:38
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment               Layer       Footprint      Center-X(mil) Center-Y(mil) Rotation Description                  
+P2         "Header 16"           TopLayer    HDR1X16        3605.000      1927.000      90       "Header, 16-Pin"             
+Charging   "Header 4_PicoBlade"  BottomLayer HDR4_PicoBlade 489.296       2713.819      90       "Header, 4-Pin"              
+EPS        "Header 6H_PicoBlade" BottomLayer HDR6_PicoBlade 3393.976      1959.032      90       "Header, 6-Pin, Right Angle" 
+OBDH       "Header 6H_PicoBlade" BottomLayer HDR6_PicoBlade 3393.976      2598.032      90       "Header, 6-Pin, Right Angle" 
+RBF        "Header 4_PicoBlade"  BottomLayer HDR4_PicoBlade 489.296       2127.819      90       "Header, 4-Pin"              
+TTC        "Header 6H_PicoBlade" BottomLayer HDR6_PicoBlade 3393.976      1320.032      90       "Header, 6-Pin, Right Angle" 
+P1         "Header 8"            TopLayer    HDR1X8         245.000       2283.000      90       "Header, 8-Pin"              
