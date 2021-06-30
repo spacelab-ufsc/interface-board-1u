@@ -11,140 +11,9 @@ Generating : Bottom Overlay
 
 
 Used DCodes :
-    D12
-    D13
-    D14
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : interface_board_1u.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : interface_board_1u.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D24
-    D25
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : interface_board_1u.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
     D10
-    D11
     D12
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : interface_board_1u.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D13
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : interface_board_1u.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : interface_board_1u.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D14
-    D19
-    D20
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
-Generating : Drill Drawing
-      File : interface_board_1u.GD1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
-
-
-Used DCodes :
-    D13
-    D14
-    D31
-    D32
+    D28
 *************************************************************
 
 *************************************************************
@@ -165,10 +34,69 @@ Used DCodes :
     D14
     D15
     D16
-    D17
-    D18
-    D28
-    D29
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : interface_board_1u.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : interface_board_1u.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : interface_board_1u.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : interface_board_1u.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -183,8 +111,8 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D13
-    D14
+    D17
+    D18
     D19
     D20
     D21
@@ -192,7 +120,73 @@ Used DCodes :
     D23
     D24
     D25
-    D26
-    D27
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : interface_board_1u.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : interface_board_1u.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : interface_board_1u.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : interface_board_1u.GD1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D29
+    D30
 *************************************************************
 

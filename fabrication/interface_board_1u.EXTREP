@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: interface_board_1u.GBR   3/19/2021  11:38:34 PM
+Gerber File Extension Report For: interface_board_1u.GBR   29/06/2021  23:42:42
 ------------------------------------------------------------------------------------------
 
 
@@ -15,5 +15,6 @@ Layer Extension     Layer Description
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
 .GM1                Mechanical 1                            
+.GKO                Keep-Out Layer                          
 .GD1                Drill Drawing                           
 ------------------------------------------------------------------------------------------
